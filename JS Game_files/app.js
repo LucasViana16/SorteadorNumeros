@@ -1,4 +1,4 @@
-let numeroSecreto = parseInt(Math.random() * 101)
+let numeroSecreto = parseInt(Math.random() * 51)
 let tentativas = 1
 let chute
 
